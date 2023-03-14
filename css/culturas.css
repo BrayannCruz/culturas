@@ -1,5 +1,14 @@
+body{
+  margin-top: 100px; 
+}
 /* Holissssss */
 header {
+  position: fixed;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 9999;
   text-align: center;
   background-color: #FFFFFF;
   color: #333333;
